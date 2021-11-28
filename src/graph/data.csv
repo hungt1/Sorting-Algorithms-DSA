@@ -1,0 +1,265 @@
+Sort name, Data order, Data size, Execution time (in milisecond), Comparisons
+selection-sort, random data, 10000, 103.719400, 100010001
+insertion-sort, random data, 10000, 54.886500, 50165046
+bubble-sort, random data, 10000, 338.145800, 100004300
+shell-sort, random data, 10000, 2.034900, 633789
+shaker-sort, random data, 10000, 261.350500, 75497697
+heap-sort, random data, 10000, 1.024000, 508766
+merge-sort, random data, 10000, 1.994700, 430067
+quick-sort, random data, 10000, 1.995600, 338967
+counting-sort, random data, 10000, 0.000000, 60003
+radix-sort, random data, 10000, 0.000000, 100054
+flash-sort, random data, 10000, 0.000000, 117391
+selection-sort, random data, 30000, 898.629100, 900030001
+insertion-sort, random data, 30000, 483.732500, 447161338
+bubble-sort, random data, 30000, 3145.736700, 900007048
+shell-sort, random data, 30000, 5.020600, 2397431
+shaker-sort, random data, 30000, 2367.650800, 677095377
+heap-sort, random data, 30000, 7.014900, 1714805
+merge-sort, random data, 30000, 5.020600, 1429766
+quick-sort, random data, 30000, 5.016700, 1215532
+counting-sort, random data, 30000, 0.000000, 179998
+radix-sort, random data, 30000, 2.020700, 360067
+flash-sort, random data, 30000, 2.014300, 354009
+selection-sort, random data, 50000, 2459.457100, 2500050001
+insertion-sort, random data, 50000, 1353.413400, 1245524563
+bubble-sort, random data, 50000, 8788.454600, 2499972438
+shell-sort, random data, 50000, 9.983200, 4407748
+shaker-sort, random data, 50000, 6641.250700, 1884415032
+heap-sort, random data, 50000, 11.974200, 3010363
+merge-sort, random data, 50000, 8.937200, 2498200
+quick-sort, random data, 50000, 8.024800, 2043671
+counting-sort, random data, 50000, 1.043600, 282768
+radix-sort, random data, 50000, 4.035100, 600067
+flash-sort, random data, 50000, 3.036100, 580938
+selection-sort, random data, 100000, 10037.747600, 10000100001
+insertion-sort, random data, 100000, 5497.162800, 4997814737
+bubble-sort, random data, 100000, 35808.714800, 9999945158
+shell-sort, random data, 100000, 22.970300, 10202020
+shaker-sort, random data, 100000, 27289.373400, 7543213377
+heap-sort, random data, 100000, 26.944300, 6420023
+merge-sort, random data, 100000, 18.982400, 5297970
+quick-sort, random data, 100000, 17.951300, 4546739
+counting-sort, random data, 100000, 0.998800, 532770
+radix-sort, random data, 100000, 5.983000, 1200067
+flash-sort, random data, 100000, 6.985600, 1135259
+selection-sort, random data, 300000, 90831.397900, 90000300001
+insertion-sort, random data, 300000, 51826.261300, 44938528039
+bubble-sort, random data, 300000, 337768.488700, 90000215028
+shell-sort, random data, 300000, 79.752100, 34443328
+shaker-sort, random data, 300000, 254889.736200, 67503599901
+heap-sort, random data, 300000, 92.751400, 21142838
+merge-sort, random data, 300000, 63.829100, 17306327
+quick-sort, random data, 300000, 62.832100, 15236551
+counting-sort, random data, 300000, 3.004200, 1532771
+radix-sort, random data, 300000, 19.948900, 3600067
+flash-sort, random data, 300000, 21.906500, 3588680
+selection-sort, random data, 500000, 259809.299300, 250000500001
+insertion-sort, random data, 500000, 152202.701200, 124910775413
+bubble-sort, random data, 500000, 950523.529600, 249999217444
+shell-sort, random data, 500000, 136.633900, 63041490
+shaker-sort, random data, 500000, 698824.190500, 187484998977
+heap-sort, random data, 500000, 160.570400, 36692804
+merge-sort, random data, 500000, 105.718800, 29907830
+quick-sort, random data, 500000, 117.640000, 29214941
+counting-sort, random data, 500000, 5.979300, 2532771
+radix-sort, random data, 500000, 31.916200, 6000067
+flash-sort, random data, 500000, 36.868500, 6046648
+selection-sort, sorted data, 10000, 101.760400, 100010001
+insertion-sort, sorted data, 10000, 0.000000, 29998
+bubble-sort, sorted data, 10000, 0.000000, 20000
+shell-sort, sorted data, 10000, 0.000000, 360042
+shaker-sort, sorted data, 10000, 0.000000, 20001
+heap-sort, sorted data, 10000, 1.994800, 533373
+merge-sort, sorted data, 10000, 1.031800, 321628
+quick-sort, sorted data, 10000, 1.030700, 346280
+counting-sort, sorted data, 10000, 0.000000, 60003
+radix-sort, sorted data, 10000, 0.000000, 100054
+flash-sort, sorted data, 10000, 0.000000, 112804
+selection-sort, sorted data, 30000, 918.576400, 900030001
+insertion-sort, sorted data, 30000, 0.000000, 89998
+bubble-sort, sorted data, 30000, 0.000000, 60000
+shell-sort, sorted data, 30000, 1.994200, 1170050
+shaker-sort, sorted data, 30000, 0.000000, 60001
+heap-sort, sorted data, 30000, 5.996000, 1781548
+merge-sort, sorted data, 30000, 4.022600, 1052684
+quick-sort, sorted data, 30000, 3.027900, 1219305
+counting-sort, sorted data, 30000, 0.000000, 180003
+radix-sort, sorted data, 30000, 2.017900, 360067
+flash-sort, sorted data, 30000, 1.024900, 338404
+selection-sort, sorted data, 50000, 2555.402900, 2500050001
+insertion-sort, sorted data, 50000, 1.000300, 149998
+bubble-sort, sorted data, 50000, 0.000000, 100000
+shell-sort, sorted data, 50000, 1.996300, 2100049
+shaker-sort, sorted data, 50000, 1.000000, 100001
+heap-sort, sorted data, 50000, 10.005600, 3127047
+merge-sort, sorted data, 50000, 5.019000, 1838364
+quick-sort, sorted data, 50000, 5.018100, 1981438
+counting-sort, sorted data, 50000, 1.030100, 300003
+radix-sort, sorted data, 50000, 3.016400, 600067
+flash-sort, sorted data, 50000, 2.027300, 564004
+selection-sort, sorted data, 100000, 10179.101200, 10000100001
+insertion-sort, sorted data, 100000, 1.000100, 299998
+bubble-sort, sorted data, 100000, 0.000000, 200000
+shell-sort, sorted data, 100000, 4.986800, 4500051
+shaker-sort, sorted data, 100000, 0.000000, 200001
+heap-sort, sorted data, 100000, 20.975600, 6664226
+merge-sort, sorted data, 100000, 11.004300, 3876732
+quick-sort, sorted data, 100000, 11.003600, 4311329
+counting-sort, sorted data, 100000, 1.024200, 600003
+radix-sort, sorted data, 100000, 6.017900, 1200067
+flash-sort, sorted data, 100000, 5.021000, 1128004
+selection-sort, sorted data, 300000, 92676.114400, 90000300001
+insertion-sort, sorted data, 300000, 0.996900, 899998
+bubble-sort, sorted data, 300000, 0.000000, 600000
+shell-sort, sorted data, 300000, 15.965100, 15300061
+shaker-sort, sorted data, 300000, 0.950300, 600001
+heap-sort, sorted data, 300000, 69.857900, 21852070
+merge-sort, sorted data, 300000, 38.916100, 12570236
+quick-sort, sorted data, 300000, 40.888900, 17150903
+counting-sort, sorted data, 300000, 4.035000, 1800003
+radix-sort, sorted data, 300000, 21.937900, 4200080
+flash-sort, sorted data, 300000, 15.001100, 3384004
+selection-sort, sorted data, 500000, 256428.225900, 250000500001
+insertion-sort, sorted data, 500000, 1.994500, 1499998
+bubble-sort, sorted data, 500000, 0.997000, 1000000
+shell-sort, sorted data, 500000, 25.930700, 25500058
+shaker-sort, sorted data, 500000, 0.997300, 1000001
+heap-sort, sorted data, 500000, 115.690200, 37799186
+merge-sort, sorted data, 500000, 63.831200, 21542140
+quick-sort, sorted data, 500000, 70.764400, 33489049
+counting-sort, sorted data, 500000, 5.976400, 3000003
+radix-sort, sorted data, 500000, 37.901400, 7000080
+flash-sort, sorted data, 500000, 23.938800, 5640004
+selection-sort, reverse sorted data, 10000, 98.781300, 100010001
+insertion-sort, reverse sorted data, 10000, 116.720400, 100009999
+bubble-sort, reverse sorted data, 10000, 376.936500, 100009999
+shell-sort, reverse sorted data, 10000, 1.000000, 475175
+shaker-sort, reverse sorted data, 10000, 355.050600, 100019998
+heap-sort, reverse sorted data, 10000, 1.032600, 485075
+merge-sort, reverse sorted data, 10000, 1.042600, 322827
+quick-sort, reverse sorted data, 10000, 1.963100, 355887
+counting-sort, reverse sorted data, 10000, 0.000000, 60003
+radix-sort, reverse sorted data, 10000, 0.000000, 100054
+flash-sort, reverse sorted data, 10000, 0.000000, 112806
+selection-sort, reverse sorted data, 30000, 875.693500, 900030001
+insertion-sort, reverse sorted data, 30000, 1042.259900, 900029999
+bubble-sort, reverse sorted data, 30000, 3474.737700, 900029999
+shell-sort, reverse sorted data, 30000, 1.020800, 1554051
+shaker-sort, reverse sorted data, 30000, 3212.445300, 900059998
+heap-sort, reverse sorted data, 30000, 5.011100, 1649112
+merge-sort, reverse sorted data, 30000, 4.030400, 1066235
+quick-sort, reverse sorted data, 30000, 3.990300, 1118587
+counting-sort, reverse sorted data, 30000, 0.000000, 180003
+radix-sort, reverse sorted data, 30000, 2.021400, 360067
+flash-sort, reverse sorted data, 30000, 1.993900, 338406
+selection-sort, reverse sorted data, 50000, 2449.476400, 2500050001
+insertion-sort, reverse sorted data, 50000, 2884.335300, 2500049999
+bubble-sort, reverse sorted data, 50000, 9369.314400, 2500049999
+shell-sort, reverse sorted data, 50000, 3.024400, 2844628
+shaker-sort, reverse sorted data, 50000, 8956.292100, 2500099998
+heap-sort, reverse sorted data, 50000, 8.976600, 2888832
+merge-sort, reverse sorted data, 50000, 6.028800, 1849483
+quick-sort, reverse sorted data, 50000, 6.028300, 1992785
+counting-sort, reverse sorted data, 50000, 0.000000, 300003
+radix-sort, reverse sorted data, 50000, 3.031800, 600067
+flash-sort, reverse sorted data, 50000, 2.033900, 564006
+selection-sort, reverse sorted data, 100000, 9739.807600, 10000100001
+insertion-sort, reverse sorted data, 100000, 11549.059100, 10000099999
+bubble-sort, reverse sorted data, 100000, 37424.488400, 10000099999
+shell-sort, reverse sorted data, 100000, 6.016300, 6089190
+shaker-sort, reverse sorted data, 100000, 35514.477600, 10000199998
+heap-sort, reverse sorted data, 100000, 19.979200, 6171509
+merge-sort, reverse sorted data, 100000, 12.001500, 3898971
+quick-sort, reverse sorted data, 100000, 12.997800, 4220223
+counting-sort, reverse sorted data, 100000, 0.998200, 600003
+radix-sort, reverse sorted data, 100000, 6.016300, 1200067
+flash-sort, reverse sorted data, 100000, 5.020300, 1128006
+selection-sort, reverse sorted data, 300000, 87986.550400, 90000300001
+insertion-sort, reverse sorted data, 300000, 103900.978300, 90000299999
+bubble-sort, reverse sorted data, 300000, 337116.679700, 90000299999
+shell-sort, reverse sorted data, 300000, 24.933600, 20001852
+shaker-sort, reverse sorted data, 300000, 317620.435600, 90000599998
+heap-sort, reverse sorted data, 300000, 65.856000, 20443133
+merge-sort, reverse sorted data, 300000, 34.927900, 12632603
+quick-sort, reverse sorted data, 300000, 47.867600, 16108000
+counting-sort, reverse sorted data, 300000, 3.990300, 1800003
+radix-sort, reverse sorted data, 300000, 21.938600, 4200080
+flash-sort, reverse sorted data, 300000, 13.960500, 3384006
+selection-sort, reverse sorted data, 500000, 244436.608300, 250000500001
+insertion-sort, reverse sorted data, 500000, 288641.209500, 250000499999
+bubble-sort, reverse sorted data, 500000, 939710.971400, 250000499999
+shell-sort, reverse sorted data, 500000, 38.903600, 33857581
+shaker-sort, reverse sorted data, 500000, 890868.892700, 250000999998
+heap-sort, reverse sorted data, 500000, 111.701400, 35564898
+merge-sort, reverse sorted data, 500000, 62.771900, 21860699
+quick-sort, reverse sorted data, 500000, 103.755100, 33127904
+counting-sort, reverse sorted data, 500000, 5.987600, 3000003
+radix-sort, reverse sorted data, 500000, 36.921000, 7000080
+flash-sort, reverse sorted data, 500000, 23.935800, 5640006
+selection-sort, nearly sorted data, 10000, 101.729100, 100010001
+insertion-sort, nearly sorted data, 10000, 0.000000, 150602
+bubble-sort, nearly sorted data, 10000, 104.753000, 95281550
+shell-sort, nearly sorted data, 10000, 1.000000, 401176
+shaker-sort, nearly sorted data, 10000, 0.000000, 219901
+heap-sort, nearly sorted data, 10000, 2.023100, 533008
+merge-sort, nearly sorted data, 10000, 2.023700, 345483
+quick-sort, nearly sorted data, 10000, 1.025000, 327316
+counting-sort, nearly sorted data, 10000, 0.971900, 60003
+radix-sort, nearly sorted data, 10000, 0.997800, 100054
+flash-sort, nearly sorted data, 10000, 0.997800, 112807
+selection-sort, nearly sorted data, 30000, 918.633400, 900030001
+insertion-sort, nearly sorted data, 30000, 0.000000, 545502
+bubble-sort, nearly sorted data, 30000, 880.679300, 808760638
+shell-sort, nearly sorted data, 30000, 2.034700, 1280746
+shaker-sort, nearly sorted data, 30000, 1.041100, 779857
+heap-sort, nearly sorted data, 30000, 5.036200, 1781430
+merge-sort, nearly sorted data, 30000, 3.039400, 1131168
+quick-sort, nearly sorted data, 30000, 3.037400, 1232740
+counting-sort, nearly sorted data, 30000, 0.000000, 180003
+radix-sort, nearly sorted data, 30000, 2.991700, 360067
+flash-sort, nearly sorted data, 30000, 0.988700, 338399
+selection-sort, nearly sorted data, 50000, 2540.240000, 2500050001
+insertion-sort, nearly sorted data, 50000, 1.014000, 628054
+bubble-sort, nearly sorted data, 50000, 1995.695900, 1841075430
+shell-sort, nearly sorted data, 50000, 2.991500, 2282915
+shaker-sort, nearly sorted data, 50000, 1.996000, 1299857
+heap-sort, nearly sorted data, 50000, 9.974800, 3126859
+merge-sort, nearly sorted data, 50000, 4.988100, 1945072
+quick-sort, nearly sorted data, 50000, 5.008900, 2022064
+counting-sort, nearly sorted data, 50000, 0.000000, 300003
+radix-sort, nearly sorted data, 50000, 4.004100, 600067
+flash-sort, nearly sorted data, 50000, 2.018100, 563997
+selection-sort, nearly sorted data, 100000, 10231.119900, 10000100001
+insertion-sort, nearly sorted data, 100000, 1.030200, 761010
+bubble-sort, nearly sorted data, 100000, 4064.166700, 3752383194
+shell-sort, nearly sorted data, 100000, 5.017800, 4692152
+shaker-sort, nearly sorted data, 100000, 5.018400, 2999805
+heap-sort, nearly sorted data, 100000, 20.984500, 6664037
+merge-sort, nearly sorted data, 100000, 11.001100, 3992784
+quick-sort, nearly sorted data, 100000, 11.995500, 4282767
+counting-sort, nearly sorted data, 100000, 2.026200, 600003
+radix-sort, nearly sorted data, 100000, 7.015900, 1200067
+flash-sort, nearly sorted data, 100000, 5.019300, 1128007
+selection-sort, nearly sorted data, 300000, 92382.155700, 90000300001
+insertion-sort, nearly sorted data, 300000, 1.015000, 1190354
+bubble-sort, nearly sorted data, 300000, 12436.337500, 11472287788
+shell-sort, nearly sorted data, 300000, 16.998200, 15449049
+shaker-sort, nearly sorted data, 300000, 8.974600, 7799857
+heap-sort, nearly sorted data, 300000, 69.848100, 21852098
+merge-sort, nearly sorted data, 300000, 36.917200, 12668958
+quick-sort, nearly sorted data, 300000, 38.940400, 17235880
+counting-sort, nearly sorted data, 300000, 3.998800, 1800003
+radix-sort, nearly sorted data, 300000, 23.935900, 4200080
+flash-sort, nearly sorted data, 300000, 14.921400, 3384002
+selection-sort, nearly sorted data, 500000, 257027.954300, 250000500001
+insertion-sort, nearly sorted data, 500000, 2.027900, 1923538
+bubble-sort, nearly sorted data, 500000, 23854.820900, 22097855728
+shell-sort, nearly sorted data, 500000, 27.896700, 25672095
+shaker-sort, nearly sorted data, 500000, 18.948000, 16999745
+heap-sort, nearly sorted data, 500000, 116.696800, 37799226
+merge-sort, nearly sorted data, 500000, 61.839400, 21662449
+quick-sort, nearly sorted data, 500000, 71.806300, 35143286
+counting-sort, nearly sorted data, 500000, 5.987000, 3000003
+radix-sort, nearly sorted data, 500000, 37.897700, 7000080
+flash-sort, nearly sorted data, 500000, 25.930000, 5639997
